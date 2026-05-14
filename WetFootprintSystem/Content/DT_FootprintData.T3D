@@ -1,0 +1,9 @@
+Begin Object Class=/Script/Engine.DataTable Name="DT_FootprintData" ExportPath="/Script/Engine.DataTable'/Game/Blueprints/DT_FootprintData.DT_FootprintData'"
+   Begin Object Class=/Script/Engine.AssetImportData Name="AssetImportData" ExportPath="/Script/Engine.AssetImportData'/Game/Blueprints/DT_FootprintData.DT_FootprintData:AssetImportData'"
+   End Object
+   Begin Object Name="AssetImportData" ExportPath="/Script/Engine.AssetImportData'/Game/Blueprints/DT_FootprintData.DT_FootprintData:AssetImportData'"
+   End Object
+   RowStruct="/Script/CoreUObject.UserDefinedStruct'/Game/Blueprints/FS_FootprintData.FS_FootprintData'"
+   AssetImportData="/Script/Engine.AssetImportData'AssetImportData'"
+   RowStructPathName="/Game/Blueprints/FS_FootprintData.FS_FootprintData"
+End Object

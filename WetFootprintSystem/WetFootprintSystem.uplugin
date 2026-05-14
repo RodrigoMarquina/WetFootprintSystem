@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "WetFootprintSystem",
+	"Description": "Character-environment footprint interaction system for UE5 landscapes.",
+	"Category": "VFX",
+	"CreatedBy": "RodrigoMarquina",
+	"CreatedByURL": "https://www.linkedin.com/in/rodrigomarquina/",
+	"CanContainContent": true,
+	"Modules": [
+		{
+			"Name": "WetFootprintSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
